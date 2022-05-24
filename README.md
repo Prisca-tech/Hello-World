@@ -6,17 +6,7 @@ It also showcases how to document projects and attach files properly and make co
 Built With:
 html
 css
-
-To get a local copy up and running follow these simple example steps.
-
-Prerequisites
-Setup
-Install
-Usage
-Run tests
-Deployment
-Authors
-👤 Author1
+👤 Author
 
 GitHub: @Prisca-tech
 Twitter: @preateamie
