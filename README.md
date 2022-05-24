@@ -6,7 +6,6 @@ It also showcases how to document projects and attach files properly and make co
 Built With:
 html
 css
-
 👤 Author
 GitHub: @Prisca-tech
 Twitter: @preateamie
