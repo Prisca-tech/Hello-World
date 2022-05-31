@@ -1,0 +1,27 @@
+{
+  "name": "hello-world",
+  "version": "1.0.0",
+  "description": "This project is to demonstrate the best practises learnt in previous lessons on git, gitHub,gitHub-flows, linter etc.\r It also showcases how to document projects and attach files properly and make concise and readable easy to understand commits.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Prisca-tech/Hello-World.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Prisca-tech/Hello-World/issues"
+  },
+  "homepage": "https://github.com/Prisca-tech/Hello-World#readme",
+  "devDependencies": {
+    "hint": "^6.2.0",
+    "stylelint": "^13.13.1",
+    "stylelint-config-standard": "^21.0.0",
+    "stylelint-csstree-validator": "^1.9.0",
+    "stylelint-scss": "^3.21.0"
+  }
+}
